@@ -1,0 +1,12 @@
+{
+  "name": "-node-todo-api",
+  "version": "1.0.0",
+  "description": "A simple todo app",
+  "main": "index.js",
+  "repository": "git@github.com:phantware/-node-todo-api.git",
+  "author": "phantware <phantmoney2011@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  }
+}
