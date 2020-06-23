@@ -7,6 +7,6 @@
   "author": "phantware <phantmoney2011@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^3.5.9"
+    "mongodb": "2.2.5"
   }
 }
